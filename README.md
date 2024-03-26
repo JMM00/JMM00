@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jimin-jeon-03780822b/"><img src="https://img.shields.io/badge/JiminJeon-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff"/></a> 
 <img src="https://img.shields.io/badge/cjjunn0827@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMM00&langs_count=3) ![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMM00&show_icons=true)
+![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMM00&show_icons=true) 
 <!--
 **JMM00/JMM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zymnee)](https://solved.ac/zymnee/)
+
 <a href="https://jeonjimin00.notion.site/_-f291c349a8d14c23b09efafbe2d37ac3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/></a>  
 
 ### Platforms & Languages & tools
