@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/jimin-jeon-03780822b/"><img src="https://img.shields.io/badge/JiminJeon-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff"/></a> 
+<img src="https://img.shields.io/badge/cjjunn0827@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/>
+<a href="https://jeonjimin00.notion.site/_-f291c349a8d14c23b09efafbe2d37ac3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/></a>  
 
 <!--
 **JMM00/JMM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Platforms & Languages & tools
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff"/> 
 -->
