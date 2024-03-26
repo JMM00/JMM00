@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/jimin-jeon-03780822b/"><img src="https://img.shields.io/badge/JiminJeon-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff"/></a> 
 <img src="https://img.shields.io/badge/cjjunn0827@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMM00&langs_count=3) ![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMM00&show_icons=true)
 <!--
 **JMM00/JMM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
